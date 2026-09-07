@@ -6,5 +6,5 @@ I'll add in instructions about how to write commit messages here, and some other
 Put an X next to your name and commit.\
 ELTON:\
 MAX:\
-JENSEN:\
-NAVEEN:
+NAVEEN:X\
+JENSEN:
